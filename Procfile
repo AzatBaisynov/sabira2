@@ -1,0 +1,1 @@
+web: java -jar SabiraBot2-1.0-SNAPSHOT.jar
